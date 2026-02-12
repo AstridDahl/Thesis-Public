@@ -1,1 +1,1 @@
-Source code, scripts and Jupyter notebooks for my thesis
+Source code, scripts and Jupyter notebooks for my thesis (June 2025)
